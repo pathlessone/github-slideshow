@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our Second Slide!"
 ---
-Your text
+Mighty Transforming Ninja Knights
 Use the left arrow to go back!
